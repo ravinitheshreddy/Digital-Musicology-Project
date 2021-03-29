@@ -15,7 +15,7 @@ The phenomenon of tonality is one of the vastest topic in the field of music the
 
 Therefore, this project will endeavour to provide some insights on the cross-culturality of tonality by statistically analyzing modal music from different cultures. More specifically, we will first study how different music concepts interfere with tonality in each examined culture. Afterwards, we will evaluate how each of these concepts, if applicable, compare cross-culturally in order to establish a possible answer as to whether the tonality is expressed similarly around the globe or if there are significant differences.
 
-As a couple of concepts that we will evaluate are the distribution of scale degrees relative to the tonic and their transitions, one possible outcome might be that we observe that the fifth above the tonic is dominant in all studied cultures, thus showing a cross-cultural similarity in the way to express tonality, but that we also note that this fifth is most often followed by a descending second in Western music, while it may be followed most often by a descending third in another culture, thus showing cultural differences.
+As a couple of concepts that we will evaluate are the distribution of scale degrees relative to the tonic and their transitions, one possible outcome might be that we observe that the fifth above the tonic is dominant in all studied cultures, thus showing a cross-cultural similarity in the way to express tonality. However, we may also discover that transitions from this shared dominant fifth lead to distinct tones in each of these cultures, thus showing cultural differences.
 
 ### Non-tonality related research questions (old ?)
 
