@@ -22,13 +22,14 @@ As stated above, all of our methods will rotate around the use of scale degrees.
 
 ## Literature
 
-The basic concepts summarizing the early studies on tonality, more specifically the analysis of the major mode, are presented in chapter 9 of Huron (2006). This will serve as a reference baseline for our study. More recently, Moss et al. (2019) have performed a corpus study of Beethoven's string quartets to obtain the statistical characteristics of tonal harmony. This recent study would provide us with the characterization of Western music.
+The basic concepts summarizing the early studies on tonality, more specifically the analysis of the major mode, are presented in chapter 9 of Huron (2006). This will serve as a reference baseline for our study. More recently, Moss et al. (2019a) have performed a corpus study of Beethoven's string quartets to obtain the statistical characteristics of tonal harmony. This recent study would provide us with the characterization of Western music. Similarly, chapters 9-12 in Moss (2019b) discuss the tonal relations that can be inferred from a large historical corpus of western music.
 
 In these studies, the research was restrained to Western music. As Huron states, no such analysis has been performed for non-Western pieces, and our project will strive to fill this void.
 ### References
 
 1. Huron, D. B. & MIT Press. (2006). Sweet Anticipation. Amsterdam University Press.
-2. Moss FC, Neuwirth M, Harasim D, Rohrmeier M (2019) Statistical characterthe istics of tonal harmony: A corpus study of Beethoven's string quartets. PLoS ONE 14(6): e0217242. https://doi.org/10.1371/journal.pone.0217242
+2. Moss FC, Neuwirth M, Harasim D, Rohrmeier M (2019a) Statistical characterthe istics of tonal harmony: A corpus study of Beethoven's string quartets. PLoS ONE 14(6): e0217242. https://doi.org/10.1371/journal.pone.0217242
+3. Moss, F. C. (2019b). Transitions of Tonality: A Model- Based Corpus Study. Doctoral dissertation, École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland.  
 
 ## Two more things
 
