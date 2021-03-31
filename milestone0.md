@@ -37,3 +37,5 @@ We would like to have the support of the teaching team for the following aspects
 
 1. We would like to know if there would be any other relevant musical concept that would help us comparing the tonality in different cultures.
 2. As stated above, we have not found our dataset(s) yet. For this reason, we would like to know if the DCML already knows of any non-Western modal music dataset labeled with the tonic that could be beneficial to us?
+
+Please note that in this milestone we have purposely not precised the music's time period, genre or scale system because of this dataset limitation we are currently facing. We will make it more precise once we will acquire our data.
