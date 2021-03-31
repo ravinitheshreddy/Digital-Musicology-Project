@@ -34,4 +34,4 @@ In these studies, the research was restrained to Western music. As Huron states,
 We would like to have the support of the teaching team for the following aspects:
 
 1. We would like to know if there would any other relevant musical concept that would help us comparing the tonality in different cultures.
-2. Does the DCML lab already know of any non-Western modal music dataset labelled with the tonic that could be beneficial to us?
+2. As stated above, we have not found our dataset(s) yet. For this reason, we would like to know if the DCML already knows of any non-Western modal music dataset labelled with the tonic that could be beneficial to us?
