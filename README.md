@@ -1,4 +1,4 @@
-# TITLE
+# Tonality in non-Western music
 
 # Digital-Musicology-Project
 
