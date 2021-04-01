@@ -29,7 +29,10 @@ In these studies, the research was restrained to Western music. As Huron states,
 
 1. Huron, D. B. & MIT Press. (2006). Sweet Anticipation. Amsterdam University Press.
 2. Moss FC, Neuwirth M, Harasim D, Rohrmeier M (2019a) Statistical characterthe istics of tonal harmony: A corpus study of Beethoven's string quartets. PLoS ONE 14(6): e0217242. https://doi.org/10.1371/journal.pone.0217242
-3. Moss, F. C. (2019b). Transitions of Tonality: A Model- Based Corpus Study. Doctoral dissertation, École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland.  
+3. Moss, F. C. (2019b). Transitions of Tonality: A Model- Based Corpus Study. Doctoral dissertation, École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland. 
+4. Harasim, Daniel, Fabian C. Moss, Matthias Ramirez, and Martin Rohrmeier. ‘Exploring the Foundations of Tonality: Statistical Cognitive Modeling of Modes in the History of Western Classical Music’. Humanities and Social Sciences Communications 8, no. 1 (4 January 2021): 1–11. https://doi.org/10.1057/s41599-020-00678-6.
+5. Bohlman, Philip V. The Study of Folk Music in the Modern World. Indiana University Press, 1988.
+
 
 ## Two more things
 
