@@ -14,7 +14,7 @@ Therefore, we hypothesize that the modal organization significantly differ betwe
 
 ## Concepts and Data
 
-In this project, we will analyze the modal organization of a corpus of Chinese Folk Songs where each composition is characterized by its region. To do so, the most important and central music concept we will use is the scale degree. Indeed, by translating each composition to a reference pitch relatively to their tonic, the scale degree will provide a common factor to analyze all pieces together . More precisely, we will measure the distribution of scale degrees as well as the transitions between one another. Such an analysis will provide us a characterization of the modal organisation of Chinese Folk Songs for each labeled region.
+In this project, we will analyze the modal organization of a corpus of Chinese Folk Songs where each composition is characterized by its region. To do so, the most important and central music concept we will use is the scale degree. Indeed, by translating each composition to a reference pitch relatively to their tonic, the scale degree will provide a common factor to analyze all pieces together . More precisely, we will measure the distribution of scale degrees as well as the transitions between one another. Such an analysis will provide a characterization of the modal organization of Chinese Folk Songs for each studied region.
 
 To conduct such an analysis, we will need a dataset of Chinese Folk Songs annotated with the tonic. Moreover, it will need to be labeled with its geographical information. Luckily, the [Essen Folksong Dataset](http://kern.ccarh.org/browse?l=essen) provides such data.
 
