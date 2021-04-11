@@ -1,4 +1,4 @@
-# Tonality in non-Western music
+# Modal organization in Chinese Folk Songs
 
 # Digital-Musicology-Project
 
@@ -15,3 +15,4 @@ Repository of EPFL Digitial Musicology course project during Spring 2021
 # Milestones
 
 * [Milestone 0](milestone0.md)
+* [Milestone 1](milestone1.md)
