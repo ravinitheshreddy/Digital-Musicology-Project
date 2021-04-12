@@ -32,7 +32,7 @@ The basic concepts summarizing the early studies on tonality, more specifically 
 
 Jones, S. (1999) shall help us to gain insights into the Chinese folk music and Bohlman (1988) to give us general expansive view of folk music.
 
-Lastly, 王芳 (2015) shall provide us with reference to similar non mathematical research.
+Lastly, 王芳 (2015) shall provide us with reference in the spatial distribution characteristics and formation mechanism of CFS culture.
 
 ### References
 
